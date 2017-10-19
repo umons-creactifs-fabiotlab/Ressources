@@ -2,4 +2,4 @@
 Aurélien Van Laere <aurelien.vanlaere@umons.ac.be>
 2019-10-19
 
-Ressource Files for the cractif FabIoTLab
+Ressource Files for the creactif FabIoTLab
