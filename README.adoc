@@ -1,0 +1,5 @@
+= NodeMCU ESP8266 standalone
+Aurélien Van Laere <aurelien.vanlaere@umons.ac.be>
+2019-10-19
+
+Ressource Files for the cractif FabIoTLab
